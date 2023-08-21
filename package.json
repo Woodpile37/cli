@@ -14,7 +14,7 @@
   "author": "Microsoft",
   "license": "MIT",
   "devDependencies": {
-    "@zeit/ncc": "^0.21.1",
+    "@zeit/ncc": "^0.22.3",
     "tslint": "^6.1.0",
     "typescript": "^3.8.3"
   },
